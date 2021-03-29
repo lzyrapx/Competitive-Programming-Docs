@@ -5,6 +5,8 @@
 
 ## ✨ catalogue:
 ```
+.
+|-- README.md
 |-- STL
 |   |-- C++STL.pdf
 |   |-- C++STL之Algorithm(算法).pdf
@@ -14,6 +16,12 @@
 |   |-- C++STL之String(字符串).pdf
 |   |-- bitset.txt
 |   `-- stl速成.doc
+|-- WC讲课资料
+|   |-- 数学.pdf
+|   |-- 计数.pdf
+|   |-- 调试导论.zip
+|   |-- 计算机代数.pdf
+|   `-- 理性愉悦——高精度数值计算（2012WC）.pdf
 |-- 其他
 |   |-- 09刘聪《浅谈数位类统计问题》
 |   |   |-- code.rar
